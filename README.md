@@ -22,7 +22,7 @@ pip install torch matplotlib numpy pandas
 ├── config.py           # 核心超参数配置 (Learning Rate, Batch Size, etc.)
 ├── train.py            # 训练脚本
 ├── test_all.py         # 一键化多模型性能对比测试
-├── save_weights/               # 自动创建：存放训练的最佳权重 (.pth)
+├── save_weights/       # 自动创建：存放训练的最佳权重 (.pth)
 └── results/            # 自动创建：存放生成的训练指标曲线图
 ```
 
