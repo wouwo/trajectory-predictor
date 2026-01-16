@@ -1,0 +1,5 @@
+Model Test Results (Test Set Only)
+----------------------------------------
+MLP: ADE=0.5997, FDE=0.9368
+LSTM: ADE=0.5618, FDE=0.9129
+TRANSFORMER: ADE=0.4927, FDE=0.8527
